@@ -11,6 +11,8 @@ This is the code repo for the Blog App with Laravel.
 
 - Clone the repo: `https://github.com/vitalii4709/laravel-app.git`
 - Go into the repo: `cd laravel-app` then `composer update`
-- Start local web server
+    and `npm update`
+- Start `npm run dev`
+- Start  local web server
 - Visit the app: <http://laravel-app.loc>
 
