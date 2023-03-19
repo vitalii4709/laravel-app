@@ -9,10 +9,8 @@ This is the code repo for the Blog App with Laravel.
 
 ## Installation
 
-- Clone the repo: `git clone https://github.com/vitalii4709/dartblog.git`
-- Go into the repo: `cd dartblog\siteblog`
-- Start the app: `python manage.py runserver`
-- Visit the app: <http://127.0.0.1:8000/>
-- Visit admin account: <http://127.0.0.1:8000/admin>
-	login: admin
-	password: 111111
+- Clone the repo: `https://github.com/vitalii4709/laravel-app.git`
+- Go into the repo: `cd laravel-app` then `composer update`
+- Start local web server
+- Visit the app: <http://laravel-app.loc>
+
